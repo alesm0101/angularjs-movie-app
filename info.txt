@@ -1,0 +1,33 @@
+01- npm install -g grunt-cli bower yo generator-karma generator-angular
+
+02 - create folder and open in the cdm(mkdir my-new-project && cd $_)
+
+03 -run yo angular [app-name]
+
+04 - grunt serve
+
+Command
+yo angular:route myroute
+Produces app/scripts/controllers/myroute.js:
+Produces app/views/myroute.html:
+
+yo angular:route myRoute --uri=my/route
+
+yo angular:controller user
+Produces app/scripts/controllers/user.js:
+
+yo angular:directive myDirective
+
+
+Produces app/scripts/directives/myDirective.js:
+
+yo angular:filter myFilter
+
+yo angular:view user
+Produces app/views/user.html:
+
+yo angular:service myService / yo angular:factory / yo angular:provider
+Produces app/scripts/services/myService.js:
+
+
+
