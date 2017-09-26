@@ -7,4 +7,10 @@
  * # basic.service
  * Constant in the movieappApp.
  */
-angular.module('movieappApp').constant('basic', {apiKey: 'c537cee3676e94b5080db01815dd2ff1', baseUrl:'https://api.themoviedb.org/3/'});
+
+const basic = {
+	apiKey: '00000000000000000',
+	baseUrl:'https://api.themoviedb.org/3/'
+};
+
+angular.module('movieappApp').constant('basic', basic);
