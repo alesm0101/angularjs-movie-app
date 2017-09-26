@@ -12,10 +12,13 @@ To get the app working you need to register and get an apikey in [https://www.th
 
 Thne go to `app/scripts/services/basic.service.js` and replace the apiKey: `00000000000000000` for your new one.
 
+---
+
 > [The Movie DB FAQ](https://www.themoviedb.org/faq/api)
 
 > [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started)
 
+---
 
 ## Build & development
 
