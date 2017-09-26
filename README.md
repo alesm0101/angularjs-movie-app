@@ -7,9 +7,9 @@ version 0.16.0. and using the themoviedb API.
 
 To get the app working you need to register and get an apikey in [https://www.themoviedb.org](https://www.themoviedb.org)
 
->[themoviedd faq](https://www.themoviedb.org/faq/api)
+>[themoviedb faq](https://www.themoviedb.org/faq/api)
 
->[themoviedd Api docs](https://developers.themoviedb.org/3/getting-started)
+>[themoviedb Api docs](https://developers.themoviedb.org/3/getting-started)
 
 > Check out the [live demo](http://diggo.cc/movieapp)
 
