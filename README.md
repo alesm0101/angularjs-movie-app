@@ -3,6 +3,9 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.16.0. and using the themoviedb API.
 
+> Check out the [live demo](http://diggo.cc/movieapp)
+
+
 ## ApiKey
 
 To get the app working you need to register and get an apikey in [https://www.themoviedb.org](https://www.themoviedb.org)
@@ -10,8 +13,6 @@ To get the app working you need to register and get an apikey in [https://www.th
 >[themoviedb faq](https://www.themoviedb.org/faq/api)
 
 >[themoviedb Api docs](https://developers.themoviedb.org/3/getting-started)
-
-> Check out the [live demo](http://diggo.cc/movieapp)
 
 ## Setup ApiKey
 
