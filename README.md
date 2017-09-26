@@ -1,11 +1,9 @@
-# Movie APP
+# Movie APP whit AngularJs 1.6
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.16.0.
+version 0.16.0. and using the themoviedb API.
 
-And using the themoviedb API.
-
-# ApiKey
+## ApiKey
 
 To get the app working you need to register and get an apikey in [https://www.themoviedb.org](https://www.themoviedb.org)
 
