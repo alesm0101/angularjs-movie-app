@@ -13,6 +13,10 @@ To get the app working you need to register and get an apikey in [https://www.th
 
 > Check out the [live demo](http://diggo.cc/movieapp)
 
+## Setup ApiKey
+
+Go to app/scripts/services/basic.service.js and replace the apiKey: '00000000000000000' for your new one.
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
