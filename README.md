@@ -10,7 +10,7 @@ version 0.16.0. and using the The Movie DB API.
 
 To get the app working you need to register and get an apikey in [https://www.themoviedb.org](themoviedb.org)
 
-Thne go to `app/scripts/services/basic.service.js` and replace the apiKey: `00000000000000000` for your new one.
+Then go to `app/scripts/services/basic.service.js` and replace the apiKey: `00000000000000000` for your new one.
 
 ---
 
